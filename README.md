@@ -3,4 +3,4 @@ by Thanida Chaiwongnon
 
 * [Self-Referencing Type Hints](self-referencing-hints.md)
 
-write this in conflicts branch
+This is some tested add on the "conflicts" branch. add for conficts
